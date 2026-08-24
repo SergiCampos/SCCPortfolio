@@ -1,6 +1,6 @@
-import { NavMenu } from "./NavMenu.tsx";
-import { PageMenuButton } from "./PageMenuButton.tsx";
-import { ExtendMenuButton } from "./ExtendMenuButton.tsx";
+import { NavMenu } from "./NavMenu";
+import { PageMenuButton } from "./PageMenuButton";
+import { ExtendMenuButton } from "./ExtendMenuButton";
 
 const NavBar = () => {
   return (

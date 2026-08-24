@@ -1,5 +1,5 @@
 import { type ReactNode } from "react";
-import { NavClock } from "./NavClock.tsx";
+import { NavClock } from "./NavClock";
 
 type NavMenuProps = {
   children: ReactNode;
