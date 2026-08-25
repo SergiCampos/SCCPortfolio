@@ -5,11 +5,18 @@
   --nav-bg: #171733;
   --nav-border: #ffffff;
   --font-bl-color: #00E5FF;
+  --font-default-color: #E9EDF8;
+  ---nav-bar-width: 3.5rem
 }
 
-:root {
+body {
   background-color: var(--bg);
+  color: var(--font-default-color);
 }
+
+/*:root {*/
+/*  background-color: var(--bg);*/
+/*}*/
 
 .dev_border {
   @apply border border-amber-50
